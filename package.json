@@ -1,6 +1,6 @@
 {
   "name": "dom-stub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal dom node stub for testing purposes",
   "main": "index.js",
   "scripts": {
